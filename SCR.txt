@@ -1,0 +1,10 @@
+NXP Software Content Register
+
+--------------------------------------------------------------------------------
+
+Outgoing license: 	NXP EULA
+License file name: 	EULA.txt
+Description: 		The puppet agent runs on edge devices.
+Origin: 		NXP Proprietary
+
+--------------------------------------------------------------------------------
